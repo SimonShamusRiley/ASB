@@ -1,7 +1,7 @@
 # ASB: The Companion Package to *Applied Statistics in Biology: A Practical Guide Using SAS, R and JMP*
 ### By Stephen R. Bowley, Edzard van Santen, Simon Riley, Diane K. Michelson and Ruth M. Hummel
 
-To be published later this year by Wiley and the ASA-CSA-SSSA. Stay tuned for updates!
+To be published April 2025 by Wiley and the [ASA-CSA-SSSA](https://www.agronomy.org/). [Now available for pre-order](https://www.wiley.com/en-us/Applied+Statistics+in+Biology%3A+A+Practical+Guide+Using+SAS%2C+R+and+JMP-p-9780891183945).
 
 ## Installation Instructions
 

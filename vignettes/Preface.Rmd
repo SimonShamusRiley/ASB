@@ -1,0 +1,26 @@
+---
+title: "Applied Statistics in Biology: A Practical Guide Using SAS, R and JMP"
+output: 
+  rmarkdown::html_vignette:
+    toc: TRUE
+    toc_depth: 2
+    df_print:  kable
+    css: custom_vignette.css
+vignette: >
+  %\VignetteIndexEntry{01 Preface to the HGSB Package}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r top, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = FALSE,
+  comment = ">"
+)
+```
+
+
+
+
+
+

@@ -1,0 +1,67 @@
+Package: ASB
+Title: "Applied Statistics in Biology: A Practical Guide Using SAS, R and JMP" Companion R Package
+Version: 1.0.0
+Authors@R: 
+    c(person(given = "Simon",
+           family = "Riley",
+           role = c("aut", "cre", "mtn"),
+           email = "ssriley@protonmail.com",
+           comment = c(ORCID = "0000-0002-4833-2026")),
+    person(given = "James",
+           family = "Colee",
+           role = c("ctb"),
+           email = "colee@ufl.edu"))
+Maintainer: Simon Riley <simon.riley@ufl.edu>
+Description: Applied Statistics in Biology: A Practical Guide Using SAS, R and JMP
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    car,
+    emmeans,
+    glmmTMB,
+    lme4,
+    Matrix,
+    mgcv,
+    nlme,
+    tibble,
+Depends: 
+    R (>= 4.0.0)
+Suggests: 
+    AICcmodavg,
+    ade4,
+    ADGofTest,
+    agricolae,
+    candisc,
+    desplot,
+    dgof,
+    ggplot2,
+    ggResidpanel,
+    glmmTMB,
+    HLMdiag,
+    knitr,
+    lattice,
+    lmerTest,
+    MASS,
+    MCMCglmm,
+    metafor,
+    multcomp,
+    multcompView,
+    MuMIn,
+    nortest, 
+    nnet,
+    ordinal,
+    pls,
+    psych,
+    rgl,
+    rmarkdown,
+    rsm,
+    scatterplot3d,
+    segmented,
+    tidyr,
+    TMB,
+    vegan,
+VignetteBuilder:
+    knitr
